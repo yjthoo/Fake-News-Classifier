@@ -7,3 +7,7 @@ The model is currently a SVC with the following accuracies:
 * Train Accuracy: 95.206%
 
 * Test Accuracy: 92.000%
+
+## Status
+
+Currently working on a BERT sequence model to improve classification accuracy.
